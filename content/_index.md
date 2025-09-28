@@ -3,7 +3,7 @@ toc: false
 ---
 
 <div align="center">
-    <img src="https://github.com/soupglasses.png" width=200/>
+    <img src="/profile.png" width=200/>
     <h1 align="center">Hi, I'm Sofie 👋</h1>
 </div>
 
